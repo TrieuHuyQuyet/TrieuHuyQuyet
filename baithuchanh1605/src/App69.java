@@ -1,8 +1,7 @@
 import java.util.TreeSet;
 import java.util.Set;
 import java.util.Scanner;
-public class App69 {
-    public static void main(String[] args) {
+public class App69 {c void main(String[] args) {
         int number;
         TreeSet<Integer> treeSetInteger = new TreeSet<>();
         Scanner scanner = new Scanner(Symtem.in);
